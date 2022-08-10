@@ -1,12 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Asgarov
-=======================================================================================================================================
+Hi 👋 My name is Ibrahim Asgarov
+================================
 
 Web Developer
 -------------
 
-My web development experience is 4 years: JavaScript (Native, jQuery); React js (Redux), Next js, Vue js (Vuex), Nuxt js; HTML5, CSS3 (with CSS Flex, CSS Grid and CSS variables); Sass (more SCSS), LESS; Gulp; BEM; Bootstrap; Firebase; Git, Github, Gitlab, Bitbucket;
-
-* 🌍  I'm based in Azerbaijan
+* 🌍  I'm based in Azerbaijan, Shaki
 * 🖥️  See my portfolio at [Repositories](http://github.com/RAIbrahim360?tab=repositories)
 * ✉️  You can contact me at [raibrahim360@gmail.com](mailto:raibrahim360@gmail.com)
 * 🚀  I'm currently working on [One Vision](http://app.onevision.ai/)
