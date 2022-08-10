@@ -6,13 +6,11 @@ Web Developer
 
 My web development experience is 4 years: JavaScript (Native, jQuery); React js (Redux), Next js, Vue js (Vuex), Nuxt js; HTML5, CSS3 (with CSS Flex, CSS Grid and CSS variables); Sass (more SCSS), LESS; Gulp; BEM; Bootstrap; Firebase; Git, Github, Gitlab, Bitbucket;
 
-* 🌍  I'm based in Azerbaijan
-* 🖥️  See my portfolio at [Repositories](http://github.com/RAIbrahim360?tab=repositories)
-* ✉️  You can contact me at [raibrahim360@gmail.com](mailto:raibrahim360@gmail.com)
-* 🚀  I'm currently working on [One Vision](http://app.onevision.ai/)
+* 🌍  I'm based in Azerbaijan
+* 🖥️  See my portfolio at [Repositories](http://github.com/RAIbrahim360?tab=repositories)
+* ✉️  You can contact me at [raibrahim360@gmail.com](mailto:raibrahim360@gmail.com)
+* 🚀  I'm currently working on [One Vision](http://app.onevision.ai/)
 
-<a href="https://www.github.com/RAIbrahim360" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RAIbrahim360?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -31,9 +29,11 @@ src="https://img.shields.io/github/followers/RAIbrahim360?logo=github&style=for-
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RAIbrahim360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raibrahim360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
