@@ -7,7 +7,6 @@ Web Developer
 * 🌍  I'm based in Azerbaijan, Shaki
 * 🖥️  See my portfolio at [Repositories](http://github.com/RAIbrahim360?tab=repositories)
 * ✉️  You can contact me at [raibrahim360@gmail.com](mailto:raibrahim360@gmail.com)
-* 🚀  I'm currently working on [One Vision](http://app.onevision.ai/)
 
 ### Skills
 
